@@ -1,8 +1,10 @@
 Data Profiling and Feature Engineering App:
-		This Streamlit application allows users to upload CSV files for data profiling and perform feature engineering transformations such as log transformation and normalization.
+		
+  		This Streamlit application allows users to upload CSV files for data profiling and perform feature engineering transformations such as log transformation and normalization.
 
 Features
-	Upload CSV File: Users can upload a CSV file containing their dataset.
+	
+ 	Upload CSV File: Users can upload a CSV file containing their dataset.
 	Profile Report: Generates basic data statistics, missing value analysis, data type information, and interactive plots for numerical features.
 	Feature Engineering: Allows users to select a numerical column and apply either log transformation or normalization. Displays histograms and boxplots for the transformed data.
 Getting Started
@@ -21,12 +23,11 @@ Run the app:
 	this will open a new tab in your default browser with the streamlit app running locally.
 
 Usage
-	Upload Data: Click on the "Choose a .csv file" button to upload your dataset.
+	
+ 	Upload Data: Click on the "Choose a .csv file" button to upload your dataset.
 	Profile Report: Navigate to the "Profile Report" tab to generate data statistics and visualizations.
 	Feature Engineering: Switch to the "Feature Engineering" tab to perform feature transformations and visualize the results.
 
-Screenshots
-	Include screenshots of your app here to provide a visual representation of how it works.
 
 Dependencies
 List the Python packages used in your project:
@@ -38,4 +39,5 @@ List the Python packages used in your project:
 	Seaborn
 
 License
-	This project is licensed under the MIT License - see the LICENSE file for details.
+	
+ 	This project is licensed under the MIT License - see the LICENSE file for details.
