@@ -1,4 +1,4 @@
-Data Profiling and Feature Engineering App
+Data Profiling and Feature Engineering App:
 		This Streamlit application allows users to upload CSV files for data profiling and perform feature engineering transformations such as log transformation and normalization.
 
 Features
